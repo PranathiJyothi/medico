@@ -34,4 +34,7 @@ dependencies {
     compile 'com.wrapp.floatlabelededittext:library:0.0.6'
     compile 'com.amulyakhare:com.amulyakhare.textdrawable:1.0.1'
     testCompile 'junit:junit:4.12'
+
+    implementation 'com.google.android.libraries.places:places:1.0.0'
+
 }
